@@ -5,7 +5,7 @@
 Welcome to my personal portfolio website! This project is a curated showcase of my frontend development work, blending clean code, expressive design, and cinematic motion. Built with HTML, CSS, JavaScript, and GSAP, it reflects my passion for creating immersive digital experiences.
 
 ## 🚀 Live Demo
-🔗 [Visit the Portfolio]([https://kamelmustafa.github.io/](https://kamelmustafa.github.io/Portfolio-Draft/))
+🔗 [Visit the Portfolio](https://kamelmustafa.github.io/Portfolio-Draft/)
 
 
 ---
