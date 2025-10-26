@@ -5,8 +5,8 @@
 Welcome to my personal portfolio website! This project is a curated showcase of my frontend development work, blending clean code, expressive design, and cinematic motion. Built with HTML, CSS, JavaScript, and GSAP, it reflects my passion for creating immersive digital experiences.
 
 ## 🚀 Live Demo
-🔗 [Visit the Portfolio](https://kamelmustafa.github.io/Portfolio-Draft/)
 
+🔗 [Visit the Portfolio](https://kamelmustafa.github.io/Portfolio-Draft/)
 
 ---
 
@@ -15,7 +15,7 @@ Welcome to my personal portfolio website! This project is a curated showcase of 
 - **HTML5** — Semantic structure and accessibility
 - **CSS3** — Responsive layout, custom scrollbar, gradient buttons, and hover effects
 - **JavaScript (Vanilla)** — Mobile menu toggle and interactivity
-- **GSAP** — Scroll-triggered animations and cinematic transitions *(planned or integrated)*
+- **GSAP** — Scroll-triggered animations and cinematic transitions _(planned or integrated)_
 - **Boxicons** — Iconography
 - **Google Fonts** — Typography (Poppins)
 
@@ -34,13 +34,13 @@ Welcome to my personal portfolio website! This project is a curated showcase of 
 
 ## 🧪 Projects Included
 
-| Project | Description | Live Demo |
-|--------|-------------|-----------|
-| **Quiz App** | Dynamic quiz with score tracking and responsive design | [Launch](https://kamelmustafa.github.io/Quiz-App/) |
-| **Registration/Login Form** | Secure form with validation and accessibility | [Launch](https://kamelmustafa.github.io/Registration-Login-Form/) |
-| **SaaS Landing Page** | Conversion-focused layout with scroll effects | [Launch](https://kamelmustafa.github.io/saas-landing-page/) |
-| **To-Do List App** | Minimalist task manager with clean JS logic | [Launch](https://kamelmustafa.github.io/To-Do-List-App/) |
-| **Counter App** | Elegant counter with animated transitions | [Launch](https://kamelmustafa.github.io/Counter-App/) |
+| Project                     | Description                                            | Live Demo                                                         |
+| --------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------- |
+| **Quiz App**                | Dynamic quiz with score tracking and responsive design | [Launch](https://kamelmustafa.github.io/Quiz-App/)                |
+| **Registration/Login Form** | Secure form with validation and accessibility          | [Launch](https://kamelmustafa.github.io/Registration-Login-Form/) |
+| **SaaS Landing Page**       | Conversion-focused layout with scroll effects          | [Launch](https://kamelmustafa.github.io/saas-landing-page/)       |
+| **To-Do List App**          | Minimalist task manager with clean JS logic            | [Launch](https://kamelmustafa.github.io/To-Do-List-App/)          |
+| **Counter App**             | Elegant counter with animated transitions              | [Launch](https://kamelmustafa.github.io/Counter-App/)             |
 
 ---
 
