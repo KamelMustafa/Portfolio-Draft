@@ -71,3 +71,4 @@ Feel free to reach out via the [Contact Form](#contact) or email me directly:
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
