@@ -6,7 +6,7 @@ Welcome to my personal portfolio website! This project is a curated showcase of 
 
 ## 🚀 Live Demo
 
-🔗 [Visit the Portfolio](https://kamelmustafa.github.io/Portfolio-Draft/)
+🔗 [Visit the Portfolio](https://kportfolio-draft.netlify.app/)
 
 ---
 
