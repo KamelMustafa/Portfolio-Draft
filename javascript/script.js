@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fetch("http://localhost:1337/api/myprojects?populate=*")
   .then((res) => res.json())
   .then((json) => {
@@ -35,6 +36,8 @@ gsap.to(".project-card", {
   ease: "power2.out",
 });
 
+=======
+>>>>>>> 8a119c3b7679e57cc4cad09a500eacb950344a01
 let menuIcon = document.querySelector("#menu-icon");
 let navbar = document.querySelector(".navbar");
 
